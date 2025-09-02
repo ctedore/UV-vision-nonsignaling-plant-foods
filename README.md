@@ -1,7 +1,7 @@
 # UV-vision-nonsignaling-plant-foods
 code associated with Tedore C & Nilsson DE (2021). Ultraviolet vision aids the detection of nutrient-dense non-signaling plant foods. Vision Research, 183, 16–29.
 
-## ‘Transmission1_17-01-05-004_UVS.txt’  
+### ‘Transmission1_17-01-05-004_UVS.txt’  
 ## ‘Transmission2_12-15-59-048_VS.txt’  
 ## ‘Transmission3_12-19-49-045_SWSu.txt’  
 ## ‘Transmission4_12-23-49-044_SWSv.txt’  
