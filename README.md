@@ -10,7 +10,7 @@ code associated with Tedore C & Nilsson DE (2021). Ultraviolet vision aids the d
 
 These are the transmittance spectra for the Spectrocam filterwheel filters. They are read in by the ‘generateCoeffs.m’ MATLAB script below.
 
-###‘cameraComponentsSpectra.mat’
+### ‘cameraComponentsSpectra.mat’
 
 This is a MATLAB file that contains:
 1\) the transmittance spectrum of the infrared blocking filter mounted on the front of the camera lens
