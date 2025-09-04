@@ -1,7 +1,7 @@
 # UV-vision-nonsignaling-plant-foods
 code associated with Tedore C & Nilsson DE (2021). Ultraviolet vision aids the detection of nutrient-dense non-signaling plant foods. Vision Research, 183, 16–29.
 
-The associated manuscript uses multispectral imaging to demonstrate that nutrient-dense non-signaling plant foods (e.g., young leaves and immature fruits) tend to stand out from natural backgrounds by absorbing UV light. 
+The associated paper uses multispectral imaging to demonstrate that nutrient-dense non-signaling plant foods (e.g., young leaves and immature fruits) tend to stand out from natural backgrounds by absorbing UV light. 
 
 The files included are listed in bold followed by descriptions of their purpose. Note that the full dataset and its associated metadata is missing due to its large size, but may be downloaded from https://doi.org/10.6084/m9.figshare.11473293.v1.
 
