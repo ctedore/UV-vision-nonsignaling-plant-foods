@@ -3,6 +3,8 @@ code associated with Tedore C & Nilsson DE (2021). Ultraviolet vision aids the d
 
 The associated paper uses multispectral imaging to demonstrate that nutrient-dense non-signaling plant foods (e.g., young leaves and immature fruits) tend to stand out from natural backgrounds by absorbing UV light. 
 
+All data and code were collected and written by Cynthia Tedore.
+
 The files included are listed in bold followed by descriptions of their purpose. Note that the full dataset and its associated metadata is missing due to its large size, but may be downloaded from https://doi.org/10.6084/m9.figshare.11473293.v1.
 
 ### ‘Transmission1_17-01-05-004_UVS.txt’
